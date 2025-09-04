@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is git first upload..
+            This is git first upload...
         </div>
     </form>
 </body>
